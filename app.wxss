@@ -1,0 +1,14 @@
+/*背景容器样式*/
+.container{
+  display: flex; /*flex模型布局*/
+  flex-direction: column; /*垂直布局*/
+  align-items: center;/*水平方向居中*/
+  height: 100vh;/*高度为100视窗，写成100%无效*/
+  justify-content: space-around; /*内容调整*/
+}
+/*文本样式*/
+text{
+  margin:0 50rpx;
+  line-height: 30pt;
+}
+

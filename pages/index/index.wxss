@@ -1,0 +1,5 @@
+/* pages/index/index.wxss */
+/*按钮样式*/
+button{
+  width: 350rpx;/* 宽度 */
+}
